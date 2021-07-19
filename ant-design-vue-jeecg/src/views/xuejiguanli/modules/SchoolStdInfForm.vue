@@ -72,9 +72,9 @@
         validatorRules: {
         },
         url: {
-          add: "/student_inf/schoolStdInf/add",
-          edit: "/student_inf/schoolStdInf/edit",
-          queryById: "/student_inf/schoolStdInf/queryById"
+          add: "/school_std_inf/schoolStdInf/add",
+          edit: "/school_std_inf/schoolStdInf/edit",
+          queryById: "/school_std_inf/schoolStdInf/queryById"
         }
       }
     },

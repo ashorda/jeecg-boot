@@ -199,11 +199,11 @@
           }
         ],
         url: {
-          list: "/student_inf/schoolStdInf/list",
-          delete: "/student_inf/schoolStdInf/delete",
-          deleteBatch: "/student_inf/schoolStdInf/deleteBatch",
-          exportXlsUrl: "/student_inf/schoolStdInf/exportXls",
-          importExcelUrl: "student_inf/schoolStdInf/importExcel",
+          list: "/school_std_inf/schoolStdInf/list",
+          delete: "/school_std_inf/schoolStdInf/delete",
+          deleteBatch: "/school_std_inf/schoolStdInf/deleteBatch",
+          exportXlsUrl: "/school_std_inf/schoolStdInf/exportXls",
+          importExcelUrl: "school_std_inf/schoolStdInf/importExcel",
           
         },
         dictOptions:{},
